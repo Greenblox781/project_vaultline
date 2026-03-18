@@ -1,0 +1,36 @@
+.cover-logo{
+   margin: auto;
+}
+.logo-wrap{
+    margin: auto;
+    text-align: center;
+    padding: 5%;
+}
+
+body{
+ background-color: black;
+ color: #4af626;
+ text-align: center;
+ font-family: monospace;
+}
+section{
+    width: 90%;
+    margin: auto;
+}
+hr{
+    border: none;
+    height: 2px;
+    background-color: #4af626;
+    width: 90%;
+}
+a{
+    color: #4af626;
+}
+.redacted{
+    background-color: #2ad606;
+    
+}
+.glitch{
+    background-color: #2ad606;
+    color: #004400;
+}
